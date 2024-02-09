@@ -1,0 +1,320 @@
+body {
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.m0a {
+    margin: 0 auto;
+    
+}
+
+.tac {
+    text-align: center;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+.inner {
+    padding: 10px;
+}
+
+.hybrid {
+    width: 80%;
+}
+
+
+.uan {
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+header div.flex:nth-child(2) {
+    width: 50%;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+
+}
+header div.flex p {
+    margin: 0;
+}
+
+header {
+    padding: 30px 0 30px 0;
+}
+
+header input[type=button] {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.uno {
+    width: 50%;
+}
+
+.uno h1 {
+    font-size: 60px;
+}
+
+.uno .flex input:nth-child(1) {
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+    color: white;
+}
+
+.uno .flex input:nth-child(2) {
+    background-color: rgb(243, 243, 243);
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+    color: black;
+}
+
+p {
+    color: #80808093;
+    font-size: 20px;
+}
+
+.dos {
+    width: 50%;
+    z-index: 1;
+}
+
+
+
+
+
+.tres {
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+ h2 {
+    font-size: 45px;
+}
+
+.cuatro {
+    width: 70%;
+    justify-content: space-around;
+}
+
+.cuatro p {
+    margin-bottom: 20px;
+}
+
+.cinco {
+    width: 70%;
+}
+
+
+
+
+
+.tercera {
+    margin-bottom: 250px;
+}
+
+.seis {
+    width: 50%;
+}
+
+.siete {
+    width: 50%;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.siete input[type=button] {
+    background-color: blue;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.ocho {
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+
+.nueve {
+    width: 80%;
+    justify-content: space-around;
+}
+
+.nueve p {
+    margin-top: 1px;
+}
+
+.nueve .inner {
+    box-shadow: 0px 0px 18px 3px rgba(179,179,179,1);
+}
+
+.nueve div:nth-child(2) {
+    margin-top: 50px;
+}
+
+.nueve div:nth-child(3) {
+    margin-top: 100px;
+}
+
+.diez {
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+.diez .p {
+    margin-bottom: 100px;
+}
+
+.once {
+    width: 50%;
+}
+
+.once p {
+    color: black;
+}
+
+.once div.flex {
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section.sexta {
+    background-color: blue;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.trece {
+    width: 50%;
+}
+
+section.sexta p {
+    color: white;
+    font-size: 12px;
+}
+
+section.sexta h2 {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: rgb(0, 3, 60);
+    padding: 30px 0 30px 0;
+}
+
+footer p {
+    font-size: 18px;
+    margin-left: 50px;
+    color: white;
+}
+
+
+.quince {
+    width: 50%;
+    align-items: center;
+}
+
+.dieciseis {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+
+svg {
+    z-index: 2;
+    position: relative;
+}
+
+
+.azul {
+    width: 760px;
+    color: blue;
+    height: 385px;
+    background-color: blue;
+    position: absolute;
+    right: -211px;
+    bottom: 100px;
+    border-radius: 30%;
+}
+
+
+
+.azul_2 {
+    width: 760px;
+    color: blue;
+    height: 385px;
+    background-color: blue;
+    position: absolute;
+    left: -180px;
+    bottom: -650px;
+    border-radius: 30%;
+}
